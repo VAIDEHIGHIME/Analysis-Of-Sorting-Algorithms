@@ -1,0 +1,25 @@
+1) Insertion sort
+Ihe Input array is
+
+Result
+Time Complexity for Insertion sort:0
+2)Selection sort
+Ihe Input array is
+
+Result
+Time Complexity for Selection sort:0
+3)Bubble sort(Modified)
+Ihe Input array is
+
+Result
+Time Complexity for Bubble sort (Modified):0
+4)Quick sort
+Ihe Input array is
+
+Result
+Time Complexity for Quick sort:0
+5)Merge sort
+Ihe Input array is
+
+Result
+Time Complexity for Merge sort:0
