@@ -8,4 +8,7 @@ These Include:
 * Bubble sort
 * Merge sort
 * Quick sort.
+### Time Complexities verses array size
+![Alt text](graph.png?raw=true "Screen-Shot")
+
 
